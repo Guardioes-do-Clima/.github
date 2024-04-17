@@ -55,11 +55,5 @@ Among the regenerative actions carried out by the project, the following stand o
 - [Project Website](https://www.co2legal.org.br/turismo/)
 - [Instagram](turismoco2legal)
 - [Online presence](https://viajarverde.com.br/tu)
-
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Youtube Channel](https://www.youtube.com/user/MecenasdaVida)
+- [Android App - Google Play](https://play.google.com/store/apps/details?id=com.atskotzen.impacttrip)
