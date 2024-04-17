@@ -50,6 +50,8 @@ In the environmental pillar, the project contributes to the construction of a ne
 Among the regenerative actions carried out by the project, the following stand out: the conservation and restoration of forests and biodiversity; implementation of agroforestry systems; implementation of agroecological models on the beneficiaries' properties; implementation of ecological cesspools on the properties; and reduction and compensation of greenhouse gas emissions from the tourism production chain.
 
 ## Links
-- [Website](https://www.co2legal.org.br/turismo/)
+
+- [Organization Website](mecenasdavida.org.br)
+- [Project Website](https://www.co2legal.org.br/turismo/)
 - [Instagram](turismoco2legal)
 - [Online presence](https://viajarverde.com.br/tu)
