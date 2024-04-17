@@ -61,7 +61,7 @@ Among the regenerative actions carried out by the project, the following stand o
 
 - [Organization Website](https://www.mecenasdavida.org.br/)
 - [Project Website](https://www.co2legal.org.br/turismo/)
-- [Instagram](turismoco2legal)
+- [Instagram](https://www.instagram.com/turismoco2legal/)
 - [Online presence](https://viajarverde.com.br/tu)
 - [Youtube Channel](https://www.youtube.com/user/MecenasdaVida)
 - [Android App - Google Play](https://play.google.com/store/apps/details?id=com.atskotzen.impacttrip)
