@@ -42,6 +42,14 @@ The project is based on the following values: fraternity; collaboration; honesty
 - **Caraíva** – Trancoso Environmental Protection Area, on the extreme southern coast of the state of Bahia;
 - **Jijoca Lagoon** Environmental Protection Area, in Jijoca de Jericoacoara, on the north coast of the state of Ceará.
 
+## Photos
+[![1.png](https://i.postimg.cc/x1F0J45W/1.png)](https://postimg.cc/v4fRCXpz)
+[![2.png](https://i.postimg.cc/KcrxrzQ7/2.png)](https://postimg.cc/kD40770D)
+[![3.png](https://i.postimg.cc/L69Ryp0c/3.png)](https://postimg.cc/F1B2R2vp)
+[![4.png](https://i.postimg.cc/kXTCzp0B/4.png)](https://postimg.cc/D84RbByT)
+[![5.png](https://i.postimg.cc/yxPKVQWp/5.png)](https://postimg.cc/RJNydT7w)
+[![6.png](https://i.postimg.cc/SRqqbFQz/6.png)](https://postimg.cc/zbd4TQgJ)
+
 ## Regeneractive actions
 In the social pillar, the project works on the socioeconomic and cultural regeneration of traditional populations – family farmers, quilombolas and indigenous people. To this end, the project offers these families Payment for Environmental Services, in the amount of R$ 400.00 per month, which works as an economic incentive for them to conserve and regenerate the forests, biodiversity and natural resources of their properties. The project also offers training and technical advice so that these social groups can be included in the tourism economy, both as suppliers of agroecological food and as offsets of greenhouse gas emissions from the tourist trade and tourists. Thus, these families are able to increase their income and, consequently, have an improvement in their quality of life. As a result, there is a regeneration and strengthening of the social fabric in rural areas, which contributes to the customs, values and cultural traditions of these social groups being rescued, regenerated and valued.
 
