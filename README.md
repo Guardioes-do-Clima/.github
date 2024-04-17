@@ -51,7 +51,7 @@ Among the regenerative actions carried out by the project, the following stand o
 
 ## Links
 
-- [Organization Website](mecenasdavida.org.br)
+- [Organization Website](https://www.mecenasdavida.org.br/)
 - [Project Website](https://www.co2legal.org.br/turismo/)
 - [Instagram](turismoco2legal)
 - [Online presence](https://viajarverde.com.br/tu)
